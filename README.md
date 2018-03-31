@@ -27,7 +27,7 @@ Time spent: **6** hours spent in total
   - [x] GIF Walkthrough: ![link](https://github.com/kballard237/CodePathWeek7/blob/master/Authenticated_Shortcode_Tags_XSS.gif)
   - [x] Steps to recreate: 
     - Create a new post
-    - In the body of the post insert <code>[caption width="8" caption='<a href="' ">]</a >< a href="http://onMouseOver='alert(1)'">Click me< /a></code>
+    - In the body of the post insert <code>[caption width="8" caption='<a href="' ">]< /a >< a href="http://onMouseOver='alert(1)'">Click me< /a></code>
     - Publish the post
     - Scroll over the link, and an alert should appear 
   - [x] Affected source code:
