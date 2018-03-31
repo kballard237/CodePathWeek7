@@ -18,7 +18,7 @@ Time spent: **6** hours spent in total
     - Publish the post
     - Scroll over the link, and an alert should appear
   - [x] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link to WordPress version 4.2](https://github.com/WordPress/WordPress/releases?after=4.2.2)
 2. (Required) Vulnerability 2015-5714
   - [x] Summary: 
     - Vulnerability types: Authenticated Shortcode Tags Cross-Site Scripting (XSS)
@@ -31,7 +31,7 @@ Time spent: **6** hours spent in total
     - Publish the post
     - Scroll over the link, and an alert should appear 
   - [x] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link to WordPress version 4.2](https://github.com/WordPress/WordPress/releases?after=4.2.2)
 3. (Required) Vulnerability WPVDB ID 7979
   - [x] Summary: 
     - Vulnerability types: Unauthenticated Genericons Cross-Site Scripting (XSS)
@@ -43,7 +43,7 @@ Time spent: **6** hours spent in total
     - Insert the following at the end of the URL: <code><img/ src=1 onerror= alert(1)></code>
     - An alert should appear upon loading the page 
   - [x] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link to WordPress version 4.2](https://github.com/WordPress/WordPress/releases?after=4.2.2)
 
 ## Assets
 
